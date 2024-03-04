@@ -8,7 +8,7 @@ from pathlib import Path
 
 logging.basicConfig(level=logging.INFO)
 
-project_name = "ML_Project"
+project_name = "ml_project"
 
 list_of_file=[
     f"src/{project_name}/__init__.py",
